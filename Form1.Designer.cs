@@ -37,9 +37,9 @@
             this.label1.Font = new System.Drawing.Font("굴림", 20F);
             this.label1.Location = new System.Drawing.Point(34, 32);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(111, 27);
+            this.label1.Size = new System.Drawing.Size(127, 27);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Git 연습";
+            this.label1.Text = "Git 연습1";
             // 
             // Form1
             // 
